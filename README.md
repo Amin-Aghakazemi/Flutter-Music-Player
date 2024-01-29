@@ -8,7 +8,7 @@ Here, you'll find the project, developed by [Amin Aghakazemi](https://aminakazem
 
 
 <p align="center">
-  <img src="Image2.jpg" height="400px" alt="App Screenshot">
+  <img src="image2.jpg" height="400px" alt="App Screenshot">
 </p>
 
 
