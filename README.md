@@ -8,7 +8,7 @@ Welcome to the Flutter Music Player repository.
   <img src="image2.jpg" height="400px" alt="App Screenshot">
 </p>
 
-This project is NOT a complete music player application but also a half-developed Flutter application that flutter programmers can use as a starting point for their music player apps.
+Please note that this project is not a complete music player application but rather a half-developed Flutter application that Flutter programmers can use as a starting point for their music player apps.
 
 Developed by [Amin Aghakazemi](https://aminakazemi.info).
 
